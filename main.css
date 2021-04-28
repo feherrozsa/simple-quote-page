@@ -10,10 +10,23 @@ body {
   /*background image and format*/
   background: url('assets/freedom.jpg') no-repeat center center fixed;
   background-size: cover;
-  font-family: Trebuchet MS, sans-serif;
+	/*text align and color*/
 	text-align: center;
+	padding: 5% 0;
+	color: darkslateblue;
 }
 
 p1 {
   text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	font-size: 200%;
+	letter-spacing: 150%;
+	word-spacing: 150%;
+	line-height: 1.5;
+}
+
+p2 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 200%;
+	line-height: 500%;
 }
